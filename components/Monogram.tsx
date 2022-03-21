@@ -11,18 +11,15 @@ function xmur3(str: string) {
   };
 }
 export const MonogramPFP = (props: {
-  user?: MinigameUser | null;
+  firstName: string;
+  lastName: string;
   className: string;
 }) => {
-  const { user, className } = props;
-  if (!user) return null;
-  console.log(user);
-  const { firstName, lastName, email } = user;
-  const initials = `${firstName[0]}${lastName[0]}`;
+  const { firstName, lastName, className } = props;
+  if (!firstName || !lastName) return null;
+  const initials = `${firstName}${lastName}`;
   // generate hash from name
-  const hash = Math.floor(
-    (xmur3(`${firstName}${lastName}${email}`)() / 2 ** 32) * 13
-  );
+  const hash = Math.floor((xmur3(`${firstName}${lastName}`)() / 2 ** 32) * 13);
   const gradients = [
     "linear-gradient(to right bottom, rgb(236, 72, 153), rgb(239, 68, 68), rgb(234, 179, 8))",
     "linear-gradient(to right bottom, rgb(134, 239, 172), rgb(59, 130, 246), rgb(147, 51, 234))",
@@ -47,7 +44,9 @@ export const MonogramPFP = (props: {
       }}
     >
       <div className="text-center">
-        <span className="font-bold font-varela text-gray-800/40">{initials}</span>
+        <span className="font-bold font-varela text-gray-800/40">
+          {initials}
+        </span>
       </div>
     </div>
   );

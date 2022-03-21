@@ -8,13 +8,13 @@ export const staffData = `[
   {
     "id": "1",
     "name": "Jared Searl",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "jsearls@pausd.org"
   },
   {
     "id": "2",
     "name": "Shawn McGinn",
-    "occupation": "VPA",
+    "occupation": "Visual & Performing Arts",
     "email": "smcginn@pausd.org"
   },
   {
@@ -25,7 +25,7 @@ export const staffData = `[
   {
     "id": "4",
     "name": "Jordan King",
-    "occupation": "VPA",
+    "occupation": "Visual & Performing Arts",
     "email": "jking@pausd.org"
   },
   {
@@ -37,26 +37,26 @@ export const staffData = `[
   {
     "id": "6",
     "name": "Ivette Daugherty",
-    "occupation": "ELL",
+    "occupation": "English Language Learner",
     "email": "idaugherty@pausd.org"
   },
   { "id": "7", "name": "Brenda Chen", "occupation": "Kitchen" },
   {
     "id": "8",
     "name": "Norma Barba-Medina",
-    "occupation": "WL",
+    "occupation": "World Language",
     "email": "nmedina@pausd.org"
   },
   {
     "id": "9",
     "name": "Jake De Francesco",
-    "occupation": "PE",
+    "occupation": "Physical Education",
     "email": "jadefrancesco@pausd.org"
   },
   {
     "id": "10",
     "name": "Amy Anderson",
-    "occupation": "PE",
+    "occupation": "Physical Education",
     "email": "amanderson@pausd.org"
   },
   {
@@ -75,7 +75,7 @@ export const staffData = `[
   {
     "id": "14",
     "name": "Travis Schollnick",
-    "occupation": "Camp. Sup.",
+    "occupation": "Campus Supervisor",
     "email": "tschollnick@pausd.org"
   },
   { "id": "15", "name": "Reva Balakrishnan", "occupation": "Debate Coach" },
@@ -89,7 +89,7 @@ export const staffData = `[
   {
     "id": "18",
     "name": "Gabrielle Gramegna",
-    "occupation": "VPA",
+    "occupation": "Visual & Performing Arts",
     "email": "ggramegna@pausd.org"
   },
   {
@@ -100,7 +100,7 @@ export const staffData = `[
   {
     "id": "20",
     "name": "Briana Gonzalez",
-    "occupation": "SpEd",
+    "occupation": "Special Education",
     "email": "bgonzalez@pausd.org"
   },
   {
@@ -124,13 +124,13 @@ export const staffData = `[
   {
     "id": "24",
     "name": "Lynn Tabuchi",
-    "occupation": "SpEd",
+    "occupation": "Special Education",
     "email": "ltabuchi@pausd.org"
   },
   {
     "id": "25",
     "name": "Kyle Langdon",
-    "occupation": "Spang. Coord.",
+    "occupation": "Spangenburg Coordinator",
     "email": "klangdon@pausd.org"
   },
   {
@@ -141,13 +141,13 @@ export const staffData = `[
   {
     "id": "27",
     "name": "David Bisbee",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "dbisbee@pausd.org"
   },
   {
     "id": "28",
     "name": "Alana Young",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "ayoung@pausd.org"
   },
   {
@@ -159,13 +159,13 @@ export const staffData = `[
   {
     "id": "30",
     "name": "Brittany Axelrod",
-    "occupation": "SpEd",
+    "occupation": "Special Education",
     "email": "baxelrod@pausd.org"
   },
   {
     "id": "31",
     "name": "Cindy Peters",
-    "occupation": "CTE",
+    "occupation": "Career Technical Education",
     "email": "cpeters@pausd.org"
   },
   {
@@ -189,7 +189,7 @@ export const staffData = `[
   {
     "id": "35",
     "name": "Jeffrey Patrick",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "jpatrick@pausd.org"
   },
   {
@@ -200,13 +200,13 @@ export const staffData = `[
   {
     "id": "37",
     "name": "Daissy Tabares",
-    "occupation": "WL",
+    "occupation": "World Language",
     "email": "dtabares@pausd.org"
   },
   {
     "id": "38",
     "name": "Christopher Johnson",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "cjohnson@pausd.org"
   },
   { "id": "39", "name": "Jayme Moses", "occupation": "Student Attendant" },
@@ -219,7 +219,7 @@ export const staffData = `[
   {
     "id": "41",
     "name": "Jason Miller",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "jasmiller@pausd.org"
   },
   { "id": "42", "name": "Roberto Ceja", "occupation": "Custodian I" },
@@ -233,7 +233,7 @@ export const staffData = `[
   {
     "id": "45",
     "name": "Teresa Nino Oliva",
-    "occupation": "WL",
+    "occupation": "World Language",
     "email": "tninooliva@pausd.org"
   },
   {
@@ -250,13 +250,13 @@ export const staffData = `[
   {
     "id": "48",
     "name": "Pam Steward",
-    "occupation": "Acad. Center",
+    "occupation": "Academic Center",
     "email": "psteward@pausd.org"
   },
   {
     "id": "49",
     "name": "Raquel Cuevas Ceja",
-    "occupation": "SpEd",
+    "occupation": "Special Education",
     "email": "rcuevasceja@pausd.org"
   },
   {
@@ -269,7 +269,7 @@ export const staffData = `[
   {
     "id": "52",
     "name": "TK Hanie",
-    "occupation": "SpEd",
+    "occupation": "Special Education",
     "email": "thanie@pausd.org"
   },
   {
@@ -299,7 +299,7 @@ export const staffData = `[
   {
     "id": "57",
     "name": "Rachael Kaci",
-    "occupation": "Work Exper.",
+    "occupation": "Work Experience",
     "email": "rkaci@pausd.org"
   },
   {
@@ -311,7 +311,7 @@ export const staffData = `[
   {
     "id": "59",
     "name": "Edward Corpuz",
-    "occupation": "CTE",
+    "occupation": "Career Technical Education",
     "email": "ecorpuz@pausd.org"
   },
   {
@@ -329,7 +329,7 @@ export const staffData = `[
   {
     "id": "62",
     "name": "Yanan Vrudny",
-    "occupation": "WL",
+    "occupation": "World Language",
     "email": "yvrudny@pausd.org"
   },
   {
@@ -341,7 +341,7 @@ export const staffData = `[
   {
     "id": "64",
     "name": "Kristina Granlund-Moyer",
-    "occupation": "CTE",
+    "occupation": "Career Technical Education",
     "email": "kgranlund@pausd.org"
   },
   {
@@ -353,7 +353,7 @@ export const staffData = `[
   {
     "id": "66",
     "name": "Lisa Collart",
-    "occupation": "Acad. Center",
+    "occupation": "Academic Center",
     "email": "lcollart@pausd.org"
   },
   {
@@ -377,7 +377,7 @@ export const staffData = `[
   {
     "id": "70",
     "name": "Haley Perkins",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "hperkins@pausd.org"
   },
   {
@@ -389,7 +389,7 @@ export const staffData = `[
   {
     "id": "72",
     "name": "Tingting Shi",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "tshi@pausd.org"
   },
   {
@@ -402,7 +402,7 @@ export const staffData = `[
   {
     "id": "75",
     "name": "Claudia Schroeppel",
-    "occupation": "WL",
+    "occupation": "World Language",
     "email": "cschroeppel@pausd.org"
   },
   {
@@ -414,7 +414,7 @@ export const staffData = `[
   {
     "id": "77",
     "name": "Jon Martinez",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "jmartinez@pausd.org"
   },
   {
@@ -467,19 +467,19 @@ export const staffData = `[
   {
     "id": "86",
     "name": "Laura Lizundia",
-    "occupation": "WL",
+    "occupation": "World Language",
     "email": "llizundia@pausd.org"
   },
   {
     "id": "87",
     "name": "Mark Weisman",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "mweisman@pausd.org"
   },
   {
     "id": "88",
     "name": "Rita Yeh",
-    "occupation": "WL",
+    "occupation": "World Language",
     "email": "ryeh@pausd.org"
   },
   {
@@ -491,7 +491,7 @@ export const staffData = `[
   {
     "id": "90",
     "name": "Leonel Argumedo",
-    "occupation": "Asst. Principal",
+    "occupation": "Assistant Principal",
     "email": "largumedo@pausd.org"
   },
   {
@@ -508,19 +508,19 @@ export const staffData = `[
   {
     "id": "93",
     "name": "Erika Garibay Diaz",
-    "occupation": "FOS aide",
+    "occupation": "Focus on Success aide",
     "email": "egaribaydiaz@pausd.org"
   },
   {
     "id": "94",
     "name": "Warren Collier",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "wcollier@pausd.org"
   },
   {
     "id": "95",
     "name": "Sophie Magid-Gutkin",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "sgutkin@pausd.org"
   },
   {
@@ -532,7 +532,7 @@ export const staffData = `[
   {
     "id": "97",
     "name": "Gregory Miller",
-    "occupation": "VPA",
+    "occupation": "Visual & Performing Arts",
     "email": "gmiller@pausd.org"
   },
   {
@@ -543,14 +543,14 @@ export const staffData = `[
   {
     "id": "99",
     "name": "Clare Gleeson",
-    "occupation": "SpEd",
+    "occupation": "Special Education",
     "email": "cgleeson@pausd.org"
   },
   { "id": "100", "name": "Emily Kingshill", "occupation": "Student Teacher" },
   {
     "id": "101",
     "name": "William Liberatore",
-    "occupation": "VPA",
+    "occupation": "Visual & Performing Arts",
     "email": "bliberatore@pausd.org"
   },
   {
@@ -574,26 +574,26 @@ export const staffData = `[
   {
     "id": "105",
     "name": "Jose Medina",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "jomedina@pausd.org"
   },
   {
     "id": "106",
     "name": "Thampuran Radhika",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "tradhika@pausd.org"
   },
   {
     "id": "107",
     "name": "Jeanette Tucker",
-    "occupation": "CTE",
+    "occupation": "Career Technical Education",
     "email": "jtucker@pausd.org"
   },
   { "id": "108", "name": "Harold Daner", "occupation": "Hourly" },
   {
     "id": "109",
     "name": "Ana Maria Gonzalez Barrios",
-    "occupation": "WL",
+    "occupation": "World Language",
     "email": "abarrios@pausd.org"
   },
   {
@@ -611,13 +611,13 @@ export const staffData = `[
   {
     "id": "112",
     "name": "Harvey Newland",
-    "occupation": "Asst. Principal",
+    "occupation": "Assistant Principal",
     "email": "hnewland@pausd.org"
   },
   {
     "id": "113",
     "name": "Lynne Navarro",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "lnavarro@pausd.org"
   },
   {
@@ -629,7 +629,7 @@ export const staffData = `[
   {
     "id": "115",
     "name": "Naomi Hascalovici",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "nhascalovici@pausd.org"
   },
   { "id": "116", "name": "Julius Phu", "occupation": "Dishwasher" },
@@ -643,13 +643,13 @@ export const staffData = `[
   {
     "id": "119",
     "name": "Michalis Gordon",
-    "occupation": "Asst. Principal",
+    "occupation": "Assistant Principal",
     "email": "mgordon@pausd.org"
   },
   {
     "id": "120",
     "name": "Yesenia Rivera",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "yrivera@pausd.org"
   },
   {
@@ -673,7 +673,7 @@ export const staffData = `[
   {
     "id": "124",
     "name": "Vicky Niemann",
-    "occupation": "SpEd secy.",
+    "occupation": "Special Education Secretary",
     "email": "vniemann@pausd.org"
   },
   {
@@ -685,25 +685,25 @@ export const staffData = `[
   {
     "id": "126",
     "name": "Dawna Linsdell",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "dlinsdell@pausd.org"
   },
   {
     "id": "127",
     "name": "Norma Hesterman",
-    "occupation": "Volunteer Coor.",
+    "occupation": "Volunteer Coordinator",
     "email": "nhesterman@pausd.org"
   },
   {
     "id": "128",
     "name": "Jennifer Ellington",
-    "occupation": "VPA",
+    "occupation": "Visual & Performing Arts",
     "email": "jellington@pausd.org"
   },
   {
     "id": "129",
     "name": "Benjamin Beresford",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "bberesford@pausd.org"
   },
   {
@@ -715,7 +715,7 @@ export const staffData = `[
   {
     "id": "131",
     "name": "Kimberly Sabbag",
-    "occupation": "PE",
+    "occupation": "Physical Education",
     "email": "ksabbag@pausd.org"
   },
   {
@@ -734,7 +734,7 @@ export const staffData = `[
   {
     "id": "135",
     "name": "Ginger Monson",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "gmonson@pausd.org"
   },
   {
@@ -752,7 +752,7 @@ export const staffData = `[
   {
     "id": "138",
     "name": "Nicole Menache",
-    "occupation": "FOS/AARTOSA",
+    "occupation": "Focus on Success / AARTOSA (no idea what that stands for)",
     "email": "nmenache@pausd.org"
   },
   {
@@ -765,7 +765,7 @@ export const staffData = `[
   {
     "id": "141",
     "name": "Marianne Laszlo",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "mlaszlo@pausd.org"
   },
   {
@@ -782,7 +782,7 @@ export const staffData = `[
   {
     "id": "144",
     "name": "Alana Young Nicholson",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "anicholson@pausd.org"
   },
   {
@@ -813,7 +813,7 @@ export const staffData = `[
   {
     "id": "150",
     "name": "Valerie LaFountain",
-    "occupation": "SpEd",
+    "occupation": "Special Education",
     "email": "vlafountain@pausd.org"
   },
   {
@@ -840,7 +840,7 @@ export const staffData = `[
   {
     "id": "157",
     "name": "Richelle Ochoa",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "rochoa@pausd.org"
   },
   {
@@ -852,13 +852,13 @@ export const staffData = `[
   {
     "id": "159",
     "name": "Mark Gleason",
-    "occupation": "VPA",
+    "occupation": "Visual & Performing Arts",
     "email": "mgleason@pausd.org"
   },
   {
     "id": "160",
     "name": "Steven Ames",
-    "occupation": "PE",
+    "occupation": "Physical Education",
     "email": "sames@pausd.org"
   },
   { "id": "161", "name": "Sharon Walker", "occupation": "Adult Ed Teacher" },
@@ -876,7 +876,7 @@ export const staffData = `[
   {
     "id": "164",
     "name": "Romeo Motas",
-    "occupation": "SpEd",
+    "occupation": "Special Education",
     "email": "rmotas@pausd.org"
   },
   {
@@ -888,7 +888,7 @@ export const staffData = `[
   {
     "id": "166",
     "name": "Kristen Lo",
-    "occupation": "VPA",
+    "occupation": "Visual & Performing Arts",
     "email": "klo@pausd.org"
   },
   {
@@ -900,13 +900,13 @@ export const staffData = `[
   {
     "id": "168",
     "name": "Braumon Creighton",
-    "occupation": "PE",
+    "occupation": "Physical Education",
     "email": "bcreighton@pausd.org"
   },
   {
     "id": "169",
     "name": "Megan Garcia",
-    "occupation": "Asst. Lib.",
+    "occupation": "Assistant Librarians",
     "email": "mgarcia@pausd.org"
   },
   { "id": "170", "name": "Rosemarie Dowell", "occupation": "District Nurse" },
@@ -918,7 +918,7 @@ export const staffData = `[
   {
     "id": "172",
     "name": "Sandra Conklin",
-    "occupation": "SpEd",
+    "occupation": "Special Education",
     "email": "sconklin@pausd.org"
   },
   {
@@ -930,13 +930,13 @@ export const staffData = `[
   {
     "id": "174",
     "name": "Nora Matta",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "nmatta@pausd.org"
   },
   {
     "id": "175",
     "name": "Laurel Howard",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "lhoward@pausd.org"
   },
   {
@@ -954,7 +954,7 @@ export const staffData = `[
   {
     "id": "178",
     "name": "Austin Kibler",
-    "occupation": "Campus Sup.",
+    "occupation": "Campus Supervisor",
     "email": "akibler@pausd.org"
   },
   {
@@ -966,7 +966,7 @@ export const staffData = `[
   {
     "id": "180",
     "name": "Jonathan Hubbs",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "jhubbs@pausd.org"
   },
   {
@@ -997,13 +997,13 @@ export const staffData = `[
   {
     "id": "186",
     "name": "Jane Miller",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "jamiller@pausd.org"
   },
   {
     "id": "187",
     "name": "Matthew McGinn",
-    "occupation": "PE",
+    "occupation": "Physical Education",
     "email": "mmcginn@pausd.org"
   },
   {
@@ -1015,7 +1015,7 @@ export const staffData = `[
   {
     "id": "189",
     "name": "Kamille De Guzman",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "kdeguzman@pausd.org"
   },
   {
@@ -1038,7 +1038,7 @@ export const staffData = `[
   {
     "id": "193",
     "name": "Luciano Hernandez",
-    "occupation": "Custodian superv.",
+    "occupation": "Custodian Supervisor",
     "email": "lhernandez@pausd.org"
   },
   {
@@ -1056,7 +1056,7 @@ export const staffData = `[
   {
     "id": "196",
     "name": "Tara Firenzi",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "tfirenzi@pausd.org"
   },
   {
@@ -1068,7 +1068,7 @@ export const staffData = `[
   {
     "id": "198",
     "name": "Jessica Antonio",
-    "occupation": "VPA",
+    "occupation": "Visual & Performing Arts",
     "email": "jantonio@pausd.org"
   },
   {
@@ -1086,7 +1086,7 @@ export const staffData = `[
   {
     "id": "202",
     "name": "Silvia Griswold",
-    "occupation": "Budget Sec.",
+    "occupation": "Budget Secretary",
     "email": "sgriswold@pausd.org"
   },
   {
@@ -1121,13 +1121,13 @@ export const staffData = `[
   {
     "id": "208",
     "name": "Arthur Kinyanjui",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "akinyanjui@pausd.org"
   },
   {
     "id": "209",
     "name": "Timothy Young",
-    "occupation": "SpEd",
+    "occupation": "Special Education",
     "email": "tyoung@pausd.org"
   },
   {
@@ -1139,7 +1139,7 @@ export const staffData = `[
   {
     "id": "211",
     "name": "Melissa Clark",
-    "occupation": "Psychol.",
+    "occupation": "Psychologist",
     "email": "mclark@pausd.org"
   },
   {
@@ -1156,13 +1156,13 @@ export const staffData = `[
   {
     "id": "214",
     "name": "Sandra Lewis",
-    "occupation": "VPA",
+    "occupation": "Visual & Performing Arts",
     "email": "slewis@pausd.org"
   },
   {
     "id": "215",
     "name": "Todd Summers",
-    "occupation": "VPA",
+    "occupation": "Visual & Performing Arts",
     "email": "tsummers@pausd.org"
   },
   {
@@ -1174,7 +1174,7 @@ export const staffData = `[
   {
     "id": "217",
     "name": "Elizabeth Matchett",
-    "occupation": "WL",
+    "occupation": "World Language",
     "email": "lmatchett@pausd.org"
   },
   {
@@ -1198,25 +1198,25 @@ export const staffData = `[
   {
     "id": "221",
     "name": "Brandon Boyd",
-    "occupation": "Camp. Sup.",
+    "occupation": "Campus Supervisor",
     "email": "bboyd@pausd.org"
   },
   {
     "id": "222",
     "name": "Philip Lyons",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "plyons@pausd.org"
   },
   {
     "id": "223",
     "name": "Patricia Holmes",
-    "occupation": "CTE",
+    "occupation": "Career Technical Education",
     "email": "pholmes@pausd.org"
   },
   {
     "id": "224",
     "name": "Gabriela Garger",
-    "occupation": "WL",
+    "occupation": "World Language",
     "email": "ggarger@pausd.org"
   },
   {
@@ -1228,7 +1228,7 @@ export const staffData = `[
   {
     "id": "226",
     "name": "Angela Mosqueda",
-    "occupation": "SS/Sci/WL sec.",
+    "occupation": "Social Studies / Science / World Language Secretary",
     "email": "amosqueda@pausd.org"
   },
   { "id": "227", "name": "Eric Handa", "occupation": "Custodian I" },
@@ -1247,7 +1247,7 @@ export const staffData = `[
   {
     "id": "231",
     "name": "Charlotte Kaufman",
-    "occupation": "WL",
+    "occupation": "World Language",
     "email": "ckaufman@pausd.org"
   },
   {
@@ -1259,7 +1259,7 @@ export const staffData = `[
   {
     "id": "233",
     "name": "Michael Camicia",
-    "occupation": "CTE",
+    "occupation": "Career Technical Education",
     "email": "mcamicia@pausd.org"
   },
   {
@@ -1301,19 +1301,19 @@ export const staffData = `[
   {
     "id": "240",
     "name": "Jennifer Wells Akis",
-    "occupation": "ELL",
+    "occupation": "English Language Learner",
     "email": "jwellsakis@pausd.org"
   },
   {
     "id": "241",
     "name": "Marie Durquet",
-    "occupation": "VPA",
+    "occupation": "Visual & Performing Arts",
     "email": "mdurquet@pausd.org"
   },
   {
     "id": "242",
     "name": "Theresa Liu",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "tliu@pausd.org"
   },
   {
@@ -1330,13 +1330,13 @@ export const staffData = `[
   {
     "id": "245",
     "name": "Angelina Fitzhugh",
-    "occupation": "VPA",
+    "occupation": "Visual & Performing Arts",
     "email": "afitzhugh@pausd.org"
   },
   {
     "id": "246",
     "name": "Howard Selznick",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "hselznick@pausd.org"
   },
   {
@@ -1356,7 +1356,7 @@ export const staffData = `[
   {
     "id": "251",
     "name": "Thomas Everynh",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "teverett@pausd.org"
   },
   {
@@ -1373,7 +1373,7 @@ export const staffData = `[
   {
     "id": "254",
     "name": "Donald Watkins",
-    "occupation": "SpEd",
+    "occupation": "Special Education",
     "email": "dwatkins@pausd.org"
   },
   {
@@ -1391,7 +1391,7 @@ export const staffData = `[
   {
     "id": "257",
     "name": "Arlena Arteaga",
-    "occupation": "SS",
+    "occupation": "Social Studies",
     "email": "aarteaga@pausd.org"
   },
   {
@@ -1414,7 +1414,7 @@ export const staffData = `[
   {
     "id": "261",
     "name": "Jorge Chavez",
-    "occupation": "Camp. Sup.",
+    "occupation": "Campus Supervisor",
     "email": "jbarrera@pausd.org"
   },
   {
@@ -1432,7 +1432,7 @@ export const staffData = `[
   {
     "id": "264",
     "name": "Matthew Hall",
-    "occupation": "WL",
+    "occupation": "World Language",
     "email": "mhall@pausd.org"
   },
   {
@@ -1445,19 +1445,19 @@ export const staffData = `[
   {
     "id": "267",
     "name": "Mark Dungan",
-    "occupation": "VPA",
+    "occupation": "Visual & Performing Arts",
     "email": "mdungan@pausd.org"
   },
   {
     "id": "268",
     "name": "Angela Merchant",
-    "occupation": "Science/CTE",
+    "occupation": "Science/Career Technical Education",
     "email": "amerchant@pausd.org"
   },
   {
     "id": "269",
     "name": "Daissy Tabares Ruiz",
-    "occupation": "WL",
+    "occupation": "World Language",
     "email": "dtabares@pausd.org"
   },
   {
@@ -1469,7 +1469,7 @@ export const staffData = `[
   {
     "id": "271",
     "name": "Gretchen Berg",
-    "occupation": "SpEd aide",
+    "occupation": "Special Educational aide",
     "email": "gberg@pausd.org"
   },
   {
@@ -1480,5 +1480,6 @@ export const staffData = `[
   },
   { "id": "273", "name": "Makiya Francis", "occupation": "Student Attendant" }
 ]
+
 `
 export default staffData
