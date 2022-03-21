@@ -40,12 +40,12 @@ export const EliminationPage = () => {
             onChange={(e) => setSearchTerm(e.target.value)}
           />
         </div>
-        <div className={`grid grid-cols-4 gap-8`}>
+        <div className={`grid grid-cols-4 2.5xl:grid-cols-3 xl:grid-cols-2 lg:grid-cols-1 gap-8`}>
           {((!!searchResults.length && searchResults) || staff)?.map(
             (member) => (
               <div
                 key={member.id}
-                className={`w-96 dark:bg-gray-750 p-4 rounded-xl shadow-md flex flex-row items-center gap-4`}
+                className={`w-96 dark:bg-gray-750 p-4 rounded-xl shadow-md flex flex-row items-center gap-4 md:max-w-full`}
               >
                 <div>
                   <MonogramPFP firstName={member.name.charAt(0)} lastName={member.name.split(" ").pop()!.charAt(0)} className={`w-16 h-16`} />
